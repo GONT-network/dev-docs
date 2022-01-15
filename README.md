@@ -1,2 +1,2 @@
 # dev-docs
-RU Docs of the GONT-VM development.
+RU docs of the GONT-VM development.
